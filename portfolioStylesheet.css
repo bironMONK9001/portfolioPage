@@ -16,8 +16,28 @@ background-color: green;
 
 }
 
+#Intro{
+
+    font-size: 26px;
+    text-align: center;
+
+}
+
+#projectTitle{
+
+    text-align: center;
+    font-size: 30px;
+
+}
+
 .portfolioPic{
 
-  padding-top: 40px;
+  padding-top: 20px;
+
+}
+
+.easleyPic{
+
+
 
 }
