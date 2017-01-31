@@ -1,3 +1,9 @@
+#NavBar {
+
+    margin-right: 20px
+
+}
+
 #About{
 
   background-color: blue;
@@ -39,5 +45,11 @@ background-color: green;
 .easleyPic{
 
 
+
+}
+.divHead{
+
+    font-size: 36px;
+    text-align: center;
 
 }
