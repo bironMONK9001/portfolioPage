@@ -8,24 +8,38 @@
 
   background-color: blue;
   margin-top: 60px;
+  margin-bottom: 0px;
 }
 
 #Projects{
 
 background-color: red;
+margin-top: 0px;
+margin-bottom: 0px;
 
 }
 
 #Contact{
 
 background-color: green;
+margin-top: 0px;
+margin-bottom: 0px;
 
+}
+
+#Links{
+
+    background-color: yellow;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 #Intro{
 
     font-size: 26px;
     text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
 }
 
@@ -52,5 +66,11 @@ background-color: green;
 
     font-size: 36px;
     text-align: center;
+
+}
+
+p {
+
+    font-size: 20px;
 
 }

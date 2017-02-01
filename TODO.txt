@@ -2,11 +2,11 @@
 my portfolio.#
 
 [] Content for About Me
-[] Content for Contact Me
-[] Buttons that link to github, twitter, and other social media in Contact
+[*] Content for Contact Me
+[*] Buttons that link to github, twitter, and other social media in Contact
 [] Colors and pretty it up
-[] Make wells have no margins between
+[*] Make wells have no margins between
 [] Fonts
 [] Credits at the bottom of the page
 [] Image for not completed project thumbnails
-[] 
+[]
