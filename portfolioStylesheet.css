@@ -1,19 +1,20 @@
 #NavBar {
 
-    margin-right: 20px
-
+    padding-right: 30px;
+    background-color: #0099cc;
+    color: white;
 }
 
 #About{
 
-  background-color: blue;
+  background-color: #CCFFCC;
   margin-top: 60px;
   margin-bottom: 0px;
 }
 
 #Projects{
 
-background-color: red;
+background-color: #66ccff;
 margin-top: 0px;
 margin-bottom: 0px;
 
@@ -21,7 +22,7 @@ margin-bottom: 0px;
 
 #Contact{
 
-background-color: green;
+background-color: #CCFFCC;
 margin-top: 0px;
 margin-bottom: 0px;
 
@@ -50,6 +51,12 @@ margin-bottom: 0px;
 
 }
 
+#background{
+
+    background-color: 003399;
+    font-family: exo, sans-serif;
+}
+
 .portfolioPic{
 
   padding-top: 20px;
@@ -66,6 +73,12 @@ margin-bottom: 0px;
 
     font-size: 36px;
     text-align: center;
+
+}
+
+.fontColor{
+
+    color: white;
 
 }
 
